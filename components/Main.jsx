@@ -19,7 +19,7 @@ const Main = () => {
             Hello, I&#39;m{" "}
             <span className="text-[#5651e5]"> Agwa Anthony Uche</span>
           </h1>
-          <h1 className="py-2 text-white">A Front-End Developer</h1>
+          <h1 className="py-2 text-white">A Frontend Developer</h1>
           <p className="py-4 text-white sm:max-w-[70%] m-auto">
             I’m focused on building responsive front-end web applications using
             latest Technologies following the industry standards.

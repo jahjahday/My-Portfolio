@@ -35,7 +35,7 @@ const property = () => {
             phase
           </p>
 
-          <a href="examgr.com" target="_blank" rel="noreferrer">
+          <a href="https://examgr.com/" target="_blank" rel="noreferrer">
             <button className="px-8 py-2 mt-4">Demo</button>
           </a>
         </div>
