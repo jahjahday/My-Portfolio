@@ -80,13 +80,47 @@ const resume = () => {
           {/* Experience */}
           <div className="py-6 text-white">
             <p className="italic">
+              <span className="font-bold"> United States of Africa</span>
+              <span className="px-2">|</span> Texas, United States of America
+            </p>
+            <p className="py-1 italic">
+              Frontend Developer (October 2022 - Date)
+            </p>
+            <ul className="list-disc list-outside px-7 py-1 leading-relaxed">
+              <li>Determining the structure and design of web pages</li>
+              <li>Ensuring user experience determines design choices</li>
+              <li>Developing features to enhance the user experience</li>
+              <li>
+                Striking a balance between functional and aesthetic design
+              </li>
+              <li>Ensuring web design is optimized for smartphones</li>
+              <li>Building reusable code for future use</li>
+              <li> Optimizing web pages for maximum speed and scalability</li>
+              <li>
+                Utilizing a variety of markup languages to write web pages
+              </li>
+              <li>Maintaining brand consistency throughout the design.</li>
+            </ul>
+          </div>
+          <div className="py-6 text-white">
+            <p className="italic">
               <span className="font-bold">Hubstro Limited</span>
               <span className="px-2">|</span> Lagos, Nigeria
             </p>
             <p className="py-1 italic">
-              Frontend Developer (September 2021 - May 2022)
+              Frontend Developer (November 2021 - May 2022)
             </p>
             <ul className="list-disc list-outside px-7 py-1 leading-relaxed">
+              <li>
+                Maintaining and improving existing codebases and peer review
+                code changes
+              </li>
+              <li>Maintain or exceed compliance with industry standards</li>
+              <li>Developing and executing project plans</li>
+              <li>
+                Perform maintenance and software integrations for existing
+                systems
+              </li>
               <li>Deployment/Implementation of Software Solutions,</li>
               <li>Ensures seamless end-user support for developed solutions</li>
               <li>
@@ -101,10 +135,17 @@ const resume = () => {
               <span className="px-2">|</span>Lagos, Nigeria
             </p>
             <p className="py-1 italic">
-              Junior Frontend Developer (January 2020 - April 2021)
+              Junior Frontend Developer (August 2019 - October 2021)
             </p>
             <ul className="list-disc list-outside px-7 py-1 leading-relaxed">
               <li>Converts designs to code</li>
+              <li>Developing innovative solutions</li>
+              <li>Provide on-call support as necessary</li>
+              <li>Write and debug code</li>
+              <li>
+                Working closely with developers to improve product’s
+                functionality
+              </li>
               <li>
                 Ensured comprehensive mobile responsive UI layouts with
                 understanding of HTML, CSS, and JavaScript.
